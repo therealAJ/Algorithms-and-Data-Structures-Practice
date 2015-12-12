@@ -21,3 +21,23 @@ Topics I will attempt to cover:
 - Binary Trees 
 - Hash Tables 
 - Heaps 
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+*************
+
+
+
+What is an Algorithm?
+
+An algorithm is a way of solving well-specified computational problems. An algorithm contains a finite set of  rules that give a sequence of operations for solving a specific type of problem. 
+
