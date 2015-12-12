@@ -4,10 +4,11 @@
 
 
 
-Made this repo for practicing basic algorithms and data structures!
+Made this repo for practicing basic algorithms and data structures :)
 Notes will be taken as I traverse through my adventure! 
+I'll play it safe and use Java for implementation. 
 
-Topics I will attempt to cover!
+Topics I will attempt to cover:
 - An Introduction to Algorithms
 - Analysis of Algorithms 
 - Arrays 
