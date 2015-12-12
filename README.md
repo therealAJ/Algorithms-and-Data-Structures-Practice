@@ -44,3 +44,4 @@ An algorithm is a way of solving well-specified computational problems. An algor
 Euclid's Algorithm 
 ******************
 Used to find the GCD of two positive numbers. Consider two positive integers 'm' and 'n' such that m > n. First, divide m by n, and let the remainder be r. If r = 0, the algorithm ends, n is the GCD. Else, set m -> n, n -> r, go back and repeat until r = 0. 
+(This is an example of a recursive algorithm)
