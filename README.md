@@ -48,7 +48,7 @@ Used to find the GCD of two positive numbers. Consider two positive integers 'm'
 (This is an example of a recursive algorithm)
 
 
-Analysis of Algorithms 
+ANAYLSIS OF ALGORITHMS 
 ***********************
 
 Two factors to be considered when analyzing an algorithm: Space complexity and Time Complexity. With regards to time complexity, the environment in which the alogrithm is being ran has a direct correlation to performance. We measure time in terms of its order or growth. 
@@ -76,7 +76,7 @@ logn ≤ √n ≤ n ≤ nlogn ≤ n² ≤ n³ ≤ 2^n ≤ n!
 Accessing array elements by index: O(1) : Constant time 
 Searching array for a[n] = val : O(n) : Linear time 
 
-Sorting Algorithms (Basic)
+SORTING ALGORITHMS (BASIC) 
 **************************
 1. Bubble Sort - O(n^2)
 2. Selection Sort - O(n^2)
