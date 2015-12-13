@@ -56,7 +56,7 @@ Two factors to be considered when analyzing an algorithm: Space complexity and T
 RAM Model of Computation: Infinite memory, each operation takes unit time, and for each memory access unit time is consumed, and data may be accessed from RAM or disk. 
 
 Time complexity example: 
-Bubble sort - number of steps for n-1 > n = 4 (1 comparison, 3 swaps)
+Bubble sort - number of steps for case n-1 > n = 4 (1 comparison, 3 swaps)
 For an array of 5 (worst case)  = 16 + 12 + 8 + 4 , 4(4 + 3 + 2 + 1), 4(n-1 + n-2 + ... 3 + 2 + 1), 2n(n - 1),  pn^2 + qn + r
 This is quadratic time. 
 
