@@ -11,10 +11,7 @@ public class BubbleSort {
         int temp;
 
         for (int i = 0; i < toSort.length; i++) {
-
             for (int j = 1; j < (toSort.length - i); j++) {
-
-
                 if (toSort[j-1] > toSort[j]) {
                     temp = toSort[j-1];
                     toSort[j-1] = toSort[j];
