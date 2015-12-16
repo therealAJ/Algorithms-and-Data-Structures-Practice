@@ -82,6 +82,9 @@ SORTING ALGORITHMS (BASIC)
 2. Selection Sort - O(n^2)
 3. Insertion Sort - O(n^2) 
 
+Bubble Sort
+
+Simple, wellknown sorting algorithm. Sorts in O(n^2) time (inefficient for sorting large data volumes). Bubble sort compares each pair of adjacent elements from the beginning of an array, and if element n-1 is greater than element n, they are swapped (implemented in code using a temporary variable). If there is at least one step done, the process repeats. 
 
 
 
