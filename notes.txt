@@ -85,6 +85,10 @@ Sorting Algorithms (Basic)
 Bubble Sort:
 Simple, wellknown sorting algorithm. Sorts in O(n^2) time (inefficient for sorting large data volumes). Bubble sort compares each pair of adjacent elements from the beginning of an array, and if element n-1 is greater than element n, they are swapped (implemented in code using a temporary variable). If there is at least one step done, the process repeats. 
 
+Selection Sort: 
+Another O(n^2) sorting algorithm (inefficient for sorting large data sets). The algorithm consists of the array of elements being divided into two parts - the sorted section and the unsorted section. In the beginning, the sorted section is empty, while the unsorted section consists of the entire array. At each step, the algorithm finds the minimial element in the unsorted section and adds it to the start of the sorted one (visualize the 0th element for first iteration). When the unsorted section of the array because emtpy the algorithm completes. 
+
+
 
 
 
