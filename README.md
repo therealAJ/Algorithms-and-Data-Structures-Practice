@@ -42,7 +42,7 @@ What is an Algorithm?
 An algorithm is a way of solving well-specified computational problems. An algorithm contains a finite set of  rules that give a sequence of operations for solving a specific type of problem. Algorithms give us an idea of running time taken by a certain problem , as well as it allows us to decide on certain hardware requirements. Algorithms correctness can be proven through proofs (Statement to be proven, list all assumption, chain of reasoning from assumptions to the statement). 
 
 
-Euclid's Algorithm 
+Euclid's Algorithm: 
 
 Used to find the GCD of two positive numbers. Consider two positive integers 'm' and 'n' such that m > n. First, divide m by n, and let the remainder be r. If r = 0, the algorithm ends, n is the GCD. Else, set m -> n, n -> r, go back and repeat until r = 0. 
 (This is an example of a recursive algorithm)
